@@ -1,0 +1,22 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "Palenight Italic",
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "mdb.confirmRunAll": false,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command"
+    ],
+    "git.autofetch": true,
+    "gitlens.views.commitDetails.files.layout": "tree",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "dart.flutterSdkPath": "C:\\Program Files\\flutter",
+    "dart.flutterCreateAndroidLanguage": "java",
+    "git.suggestSmartCommit": false
+}
